@@ -2,7 +2,7 @@
 
 🎓 **MRes in Economic Theory** | **MA in Economic Theory** | **BS in Economic Sciences**
 
-Not rational  [what they need to know about me?]
+Unraveling the human behavior using Economics and Machine Learning
 
 
 ---
@@ -12,15 +12,30 @@ Not rational  [what they need to know about me?]
 
 ## Skills & Interests
 
+- Economic Theory & Modeling
+- Machine Learning & Neural Networks
+- Game Theory & Decision Science
+- Coding (Python, SQL, PyTorch, and more)
+
+
+
 ---
 
 ## Hobbies
+
+Languages
+🎹 Piano  
+🕹️ Pump It Up (Arcade dance)  
+🎤 Bass singing  
+💻 Coding
 
 ---
 
 ## Find Me Online
 
 🌐 [Personal Website](https://hiromn2.github.io/)
+🌐 [LinkedIn](https://www.linkedin.com/in/mateus-hiro-nagata-048388172/)
+
 
 <!--
 **hiromn2/hiromn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
