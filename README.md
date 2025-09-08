@@ -1,20 +1,26 @@
 # Mateus Hiro Nagata
 
-🎓 **MRes in Economic Theory** | **MA in Economic Theory** | **BS in Economic Sciences**
+🎓 **MRes in Economic Theory** at HEC Paris
+🎓 **MA in Economic Theory** at Instituto Tecnológico Autónomo de México (ITAM) 
+🎓 **BS in Economic Sciences** at University of Brasilia (UnB)
 
-Unraveling the human behavior using Economics and Machine Learning
-
+First-principles thinker about human decision making and Machine Learning with theory and data-driven approaches. Japanese hardware, Brazilian software. Currently seeking opportunities as a **Research Scientist**, **Data Scientist**, or **Economist**.
 
 ---
-### Languages and Tools
+### Flagship Projects
+
+- [**ML vs DT**](https://github.com/hiromn2/ml-vs-dt): Comparing pure Machine Learning models against economic models to explain decision-making under risk.
+- [**Game-Theoretic Learning Algorithm:**](https://github.com/hiromn2/Correlated-Q-Learning): Created a new learning algorithm that sheds light on the deep connections between equilibrium selection, algorithmic learning, correlated equilibrium, quantal response equilibrium, and stability.
+
+---
+
 
 ---
 
 ## Skills & Interests
-
 - Economic Theory & Modeling
 - Machine Learning & Neural Networks
-- Game Theory & Decision Science
+- Game Theory & Decision Sciences
 - Coding (Python, SQL, PyTorch, and more)
 
 ---
@@ -39,7 +45,7 @@ Unraveling the human behavior using Economics and Machine Learning
 
 ## Hobbies
 
-Languages
+🥳 Languages (Japanese, English, Spanish, Chinese, Korean, Portuguese, French, English)
 🎹 Piano  
 🕹️ Pump It Up (Arcade dance)  
 🎤 Bass singing  
