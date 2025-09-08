@@ -8,15 +8,10 @@ First-principles thinker about human decision making and Machine Learning with t
 
 ---
 ### Flagship Projects
-
 - [**ML vs DT**](https://github.com/hiromn2/ml-vs-dt): Comparing pure Machine Learning models against economic models to explain decision-making under risk.
 - [**Game-Theoretic Learning Algorithm:**](https://github.com/hiromn2/Correlated-Q-Learning): Created a new learning algorithm that sheds light on the deep connections between equilibrium selection, algorithmic learning, correlated equilibrium, quantal response equilibrium, and stability.
 
 ---
-
-
----
-
 ## Skills & Interests
 - Economic Theory & Modeling
 - Machine Learning & Neural Networks
@@ -25,12 +20,10 @@ First-principles thinker about human decision making and Machine Learning with t
 
 ---
 ### 📊 GitHub Stats
-
 ![hiromn2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiromn2&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiromn2&layout=compact&theme=radical)
 
 ## 🏆 Badges & Fun
-
 ![Profile views](https://komarev.com/ghpvc/?username=hiromn2&color=blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300C7B7.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Economics](https://img.shields.io/badge/Economics-%23FFD700.svg?style=for-the-badge)
