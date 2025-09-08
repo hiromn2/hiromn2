@@ -17,7 +17,23 @@ Unraveling the human behavior using Economics and Machine Learning
 - Game Theory & Decision Science
 - Coding (Python, SQL, PyTorch, and more)
 
+---
+### 📊 GitHub Stats
 
+![hiromn2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiromn2&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiromn2&layout=compact&theme=radical)
+
+## 🏆 Badges & Fun
+
+![Profile views](https://komarev.com/ghpvc/?username=hiromn2&color=blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300C7B7.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Economics](https://img.shields.io/badge/Economics-%23FFD700.svg?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007396.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Game Theory](https://img.shields.io/badge/Game%20Theory-%23E34F26.svg?style=for-the-badge)
+![Piano](https://img.shields.io/badge/Piano-%23000000.svg?style=for-the-badge&logo=Spotify&logoColor=white)
+![Pump It Up](https://img.shields.io/badge/Pump%20It%20Up-%23FF69B4.svg?style=for-the-badge)
+![Bass Singing](https://img.shields.io/badge/Bass%20Singing-%23008000.svg?style=for-the-badge)
 
 ---
 
