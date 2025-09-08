@@ -1,8 +1,26 @@
 # Mateus Hiro Nagata
 
-## [Title]
+🎓 **MRes in Economic Theory** | **MA in Economic Theory** | **BS in Economic Sciences**
 
 Not rational  [what they need to know about me?]
+
+
+---
+### Languages and Tools
+
+---
+
+## Skills & Interests
+
+---
+
+## Hobbies
+
+---
+
+## Find Me Online
+
+🌐 [Personal Website](https://hiromn2.github.io/)
 
 <!--
 **hiromn2/hiromn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
