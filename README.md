@@ -1,7 +1,9 @@
 # Mateus Hiro Nagata
 
 🎓 **MRes in Economic Theory** at HEC Paris
+
 🎓 **MA in Economic Theory** at Instituto Tecnológico Autónomo de México (ITAM) 
+
 🎓 **BS in Economic Sciences** at University of Brasilia (UnB)
 
 First-principles thinker about human decision making and Machine Learning with theory and data-driven approaches. Japanese hardware, Brazilian software. Currently seeking opportunities as a **Research Scientist**, **Data Scientist**, or **Economist**.
