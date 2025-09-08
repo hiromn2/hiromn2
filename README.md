@@ -6,7 +6,7 @@
 
 🎓 **BS in Economic Sciences** at University of Brasilia (UnB)
 
-First-principles thinker about human decision making and Machine Learning with theory and data-driven approaches. Japanese hardware, Brazilian software. Currently seeking opportunities as a **Research Scientist**, **Data Scientist**, or **Economist**.
+First-principles thinker about human decision making and Machine Learning with theory and data-driven approaches. Japanese hardware, Brazilian software. 4 Peer-reviewed papers + 4 conference papers. Currently seeking opportunities as a **Research Scientist**, **Data Scientist**, or **Economist**. 
 
 ---
 ### Flagship Projects
