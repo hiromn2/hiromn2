@@ -14,6 +14,16 @@ First-principles thinker about human decision making and Machine Learning with t
 - [**Game-Theoretic Learning Algorithm:**](https://github.com/hiromn2/Correlated-Q-Learning): Created a new learning algorithm that sheds light on the deep connections between equilibrium selection, algorithmic learning, correlated equilibrium, quantal response equilibrium, and stability.
 
 ---
+### Papers
+- [**An empirical overview of nonlinearity and overfitting in machine learning using COVID-19 data**](https://www.sciencedirect.com/science/article/pii/S0960077920304525): Prediction of COVID-19 cases using support vector regression, hyperparameter search, and interpolation. 
+- [**Bypassing the truncation problem of truncated Lévy flights**](https://www.sciencedirect.com/science/article/pii/S0378437120305392): Model of Truncated Lévy Flights by deducting from a power law relation.
+- [**Retrodicting with the truncated Lévy flight**](https://www.sciencedirect.com/science/article/abs/pii/S1007570422003872): Model of Truncated Lévy Flights that connects bounded past with unbounded future.
+- [**The duration of historical pandemics**](https://www.sciencedirect.com/science/article/abs/pii/S1007570422001770): Extreme Value Theory applied to pandemic duration.
+
+
+
+
+---
 ## Skills & Interests
 - Economic Theory & Modeling
 - Machine Learning & Neural Networks
