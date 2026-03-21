@@ -1,6 +1,6 @@
 # Mateus Hiro Nagata
 
-🎓 **MRes in Economic Theory** at HEC Paris
+🎓 **MRes in Economics & Decision Scineces** at HEC Paris
 
 🎓 **MA in Economic Theory** at Instituto Tecnológico Autónomo de México (ITAM) 
 
@@ -48,15 +48,6 @@ First-principles thinker about human decision making and Machine Learning with t
 
 ---
 
-## Hobbies
-
-🥳 Languages (Japanese, English, Spanish, Chinese, Korean, Portuguese, French, English)
-🎹 Piano  
-🕹️ Pump It Up (Arcade dance)  
-🎤 Bass singing  
-💻 Coding
-
----
 
 ## Find Me Online
 
