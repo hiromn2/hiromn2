@@ -1,6 +1,6 @@
 # Mateus Hiro Nagata
 
-🎓 **MRes in Economics & Decision Scineces** at HEC Paris
+🎓 **MRes in Economics & Decision Sciences** at HEC Paris
 
 🎓 **MA in Economic Theory** at Instituto Tecnológico Autónomo de México (ITAM) 
 
