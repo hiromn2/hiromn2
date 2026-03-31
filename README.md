@@ -13,7 +13,7 @@ Quantitative researcher working at the intersection of statistical physics, econ
 - [**Truncated Lévy Flights**](https://github.com/hiromn2/truncated-levy-flights): Heavy-tail return modeling connecting bounded empirical distributions with power-law tails; basis for two published papers in Physica A and Chaos, Solitons & Fractals.
 - [**Correlated Q-Learning**](https://github.com/hiromn2/Correlated-Q-Learning): Multi-agent learning algorithm connecting correlated equilibrium, quantal response, and algorithmic stability.
 - [**ML vs Decision Theory**](https://github.com/hiromn2/ml-vs-dt): Benchmarking ML models against structural economic models (CPT, EUT) on behavioral data.
-- [**Five-Factor Asset Pricing**](https://github.com/hiromn2/five-factor-model): Fama-French five-factor model implemented on Brazilian equity market data.
+
 
 ---
 
@@ -22,7 +22,7 @@ Quantitative researcher working at the intersection of statistical physics, econ
 - [**Bypassing the truncation problem of truncated Lévy flights**](https://www.sciencedirect.com/science/article/pii/S0378437120305392) — *Physica A*, 2020. Power-law tail model for financial return distributions.
 - [**Retrodicting with the truncated Lévy flight**](https://www.sciencedirect.com/science/article/abs/pii/S1007570422003872) — *Chaos, Solitons & Fractals*, 2022. Connects bounded historical distributions with unbounded future tails.
 - [**The duration of historical pandemics**](https://www.sciencedirect.com/science/article/abs/pii/S1007570422001770) — *Chaos, Solitons & Fractals*, 2022. Extreme value theory applied to pandemic duration modeling.
-- [**Nonlinearity and overfitting in ML using COVID-19 data**](https://www.sciencedirect.com/science/article/pii/S0960077920304525) — *Chaos, Solitons & Fractals*, 2020. SVR, hyperparameter search, and interpolation on epidemiological data.
+- [**An empirical overview of nonlinearity and overfitting in machine learning using COVID-19 data**](https://www.sciencedirect.com/science/article/pii/S0960077920304525) — *Chaos, Solitons & Fractals*, 2020. SVR, hyperparameter search, and interpolation on epidemiological data.
 
 ---
 
@@ -36,4 +36,4 @@ Quantitative researcher working at the intersection of statistical physics, econ
 
 ### Find Me
 
-🌐 [Portfolio](https://hiromn2.github.io/) · [LinkedIn](https://www.linkedin.com/in/mateus-hiro-nagata-048388172/)
+🌐 [Portfolio](https://hiromn2.github.io/) · [LinkedIn](https://www.linkedin.com/in/mateus-hiro-nagata-048388172/) · [Google Scholar](https://scholar.google.com/citations?user=krNpwU0AAAAJ)
