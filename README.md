@@ -3,6 +3,8 @@
 🎓 MRes Economics & Decision Sciences, HEC Paris · MA Economic Theory, ITAM · BSc Economics, University of Brasília
 
 **Quantitative researcher** at the intersection of statistical physics, economic theory, and machine learning - heavy-tail modeling, extreme value theory, and multi-agent learning dynamics. 4 peer-reviewed publications, 150+ citations. Seeking roles in **Quantitative Research**, **Data Science**, or **ML Engineering**.
+
+
 ---
 
 ### Flagship Projects
