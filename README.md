@@ -3,11 +3,6 @@
 🎓 MRes Economics & Decision Sciences, HEC Paris · MA Economic Theory, ITAM · BSc Economics, University of Brasília
 
 **Quantitative researcher** at the intersection of statistical physics, economic theory, and machine learning - heavy-tail modeling, extreme value theory, and multi-agent learning dynamics. 4 peer-reviewed publications, 150+ citations. Seeking roles in **Quantitative Research**, **Data Science**, or **ML Engineering**.
-
-
-
-Quantitative researcher working at the intersection of statistical physics, economic theory, and machine learning. Heavy-tail modeling, extreme value theory, and multi-agent learning dynamics. 4 peer-reviewed publications (150+ citations). Currently seeking roles as a **Quantitative Researcher**, **Data Scientist**, or **ML Engineer**.
-
 ---
 
 ### Flagship Projects
@@ -26,13 +21,16 @@ Quantitative researcher working at the intersection of statistical physics, econ
 - [**The duration of historical pandemics**](https://www.sciencedirect.com/science/article/abs/pii/S1007570422001770) — *Chaos, Solitons & Fractals*, 2022. Extreme value theory applied to pandemic duration modeling.
 - [**An empirical overview of nonlinearity and overfitting in machine learning using COVID-19 data**](https://www.sciencedirect.com/science/article/pii/S0960077920304525) — *Chaos, Solitons & Fractals*, 2020. SVR, hyperparameter search, and interpolation on epidemiological data.
 
+*Other work:* [Correlated Q-Learning](https://github.com/hiromn2/Correlated-Q-Learning) (multi-agent RL · correlated equilibrium · quantal response) · [more on GitHub →](https://github.com/hiromn2)
+
 ---
 
 ### Skills
 
-**Methods:** Extreme Value Theory · Lévy Processes · GARCH/EGARCH · Causal Inference · Multi-Agent RL · Mechanism Design  
-**Tools:** Python (PyTorch · XGBoost · LightGBM · scikit-learn) · R · SQL · C  
-**Languages:** Japanese (JLPT N1) · English · Mandarin (HSK 5) · Portuguese · Spanish
+**Quantitative finance & econometrics:** Extreme Value Theory · Lévy processes · GARCH/EGARCH · variance risk premium · causal inference
+**ML & systems:** Multi-agent RL · mechanism design · signed causal graphs / DAGs · LLM systems (RAG, structured outputs)
+**Tools:** Python (PyTorch · XGBoost · LightGBM · scikit-learn) · R · SQL
+**Languages:** Japanese (JLPT N1) · English · Portuguese · Spanish · Mandarin (HSK 5)
 
 ---
 
