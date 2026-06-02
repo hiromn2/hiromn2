@@ -1,8 +1,10 @@
 # Mateus Hiro Nagata
 
-🎓 **MRes in Economics & Decision Sciences** — HEC Paris  
-🎓 **MA in Economic Theory** — ITAM Mexico  
-🎓 **BSc in Economic Sciences** — University of Brasília  
+🎓 MRes Economics & Decision Sciences, HEC Paris · MA Economic Theory, ITAM · BSc Economics, University of Brasília
+
+**Quantitative researcher** at the intersection of statistical physics, economic theory, and machine learning - heavy-tail modeling, extreme value theory, and multi-agent learning dynamics. 4 peer-reviewed publications, 150+ citations. Seeking roles in **Quantitative Research**, **Data Science**, or **ML Engineering**.
+
+
 
 Quantitative researcher working at the intersection of statistical physics, economic theory, and machine learning. Heavy-tail modeling, extreme value theory, and multi-agent learning dynamics. 4 peer-reviewed publications (150+ citations). Currently seeking roles as a **Quantitative Researcher**, **Data Scientist**, or **ML Engineer**.
 
